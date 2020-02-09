@@ -12,6 +12,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## The Repository
 README.md = Information about the data and contents of the repository
+
 run_analysis.R = creates an independent tidy data set with the average of each variable for each activity and each subject
+
 CodeBook.Rmd = Explains the variables and identifiers in the final table (Summary_Table.txt)
+
 Summary_Table.txt = Final table created by running the run_analysis.R
